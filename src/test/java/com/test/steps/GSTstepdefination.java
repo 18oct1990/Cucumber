@@ -38,7 +38,8 @@ public class GSTstepdefination {
 		  
 		  @Then ("Verify the title") public void Verify_the_title() { String Title=
 		  driver.getTitle(); System.out.println(Title); }
-		 
+		  
+		 String git;
 		
 		
 

@@ -40,6 +40,7 @@ public class GSTstepdefination {
 		  driver.getTitle(); System.out.println(Title); }
 		  
 		 String git="Commit";
+		 String git1="Commit";
 		 
 		
 		
